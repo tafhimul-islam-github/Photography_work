@@ -1,19 +1,19 @@
 # Base configs
-baseurl: "https://photography.rampatra.com"
+baseurl: "https://tafhimul-islam-github.github.io/Photography_work/"
 #baseurl: "" # Comment the above line and uncomment this to test the website locally
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics: "UA-46465113-2"
 
 # UI configs
-title: "Photography by Ram Patra"
+title: "Photography by Tafhimul Islam"
 subtitle: "See the world through my eyes!"
-author: "Ram Patra"
+author: "Tafhimul Islam"
 header:
  title: "Photography"
- subtitle: "by Ram Patra"
+ subtitle: "by Tafhimul Islam"
 footer:
- name: "Hey there, my name is Ram"
+ name: "Hey there, my name is Tafhim"
  bio: "I am a developer and a tech aficionado from India. Love making teeny tiny apps solving tiny problems in life and now learning photography."
  github: "Want a website like this for yourself for free? Just <a href=\"https://github.com/ramswaroop/photography\">fork me on github</a> ;)"
 web_design: "AJ"
